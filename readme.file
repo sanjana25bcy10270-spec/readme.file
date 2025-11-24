@@ -1,0 +1,13 @@
+Smart Health Symptom Checker
+
+This is a simple web application that helps users check their health based on the symptoms they provide. When a user enters their symptoms, the system predicts possible diseases using machine learning and gives helpful suggestions and precautions. It can also provide a basic health report.Why I Built This Project
+
+Many people struggle to understand early health symptoms and delay medical help. This system gives a quick idea about possible health issues, so users can take better decisions in time.
+What This System Can Do
+
+Users can create an account and log in
+
+Enter symptoms (like fever, headache, cough, etc.)
+
+Predicts possible disease using AI/ML
+
